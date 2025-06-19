@@ -1,0 +1,16 @@
+﻿# Existing requirements
+streamlit
+instagrapi
+selenium
+requests
+
+# AI Integration requirements
+openai==0.28.1
+whisper-openai
+torch
+torchvision
+torchaudio
+ffmpeg-python
+
+# Optional: for better performance
+# whisper-cpp-python  # Alternative faster implementation
